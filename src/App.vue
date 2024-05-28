@@ -266,7 +266,7 @@
                     v-model="form2.cardno"
                     placeholder="Card Number"
                     class="sm:w-1/2 w-full"
-                    readonly
+                    required
                   />
                   <input
                     type="text"
